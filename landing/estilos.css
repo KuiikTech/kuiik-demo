@@ -1,0 +1,226 @@
+/* Estilos CSS con Bootstrap */
+
+/* Estilos generales */
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: bold;
+}
+
+a {
+  color: #3c3c3c;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #f4a71d;
+}
+
+/* Estilos para el navbar */
+.navbar {
+  background-color: #f4a71d;
+}
+
+.navbar-brand {
+  font-size: 2rem;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.navbar-nav .nav-link {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #3c3c3c;
+}
+
+/* Estilos para los banners */
+.banner {
+  height: 500px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.banner .texto-banner {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #fff;
+  text-align: center;
+}
+
+.banner h2 {
+  font-size: 4rem;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.banner p {
+  font-size: 1.5rem;
+}
+
+/* Estilos para los servicios */
+.servicios h2 {
+  font-size: 3rem;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.servicios .card {
+  border: none;
+}
+
+.servicios .card img {
+  height: 200px;
+}
+
+.servicios .card-title {
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-top: 20px;
+}
+
+.servicios .card-text {
+  margin-top: 10px;
+}
+
+/* Estilos para el formulario de reservas */
+.reservas h2 {
+  font-size: 3rem;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.reservas form {
+  background-color: #f8f9fa;
+  padding: 30px;
+  margin-top: 30px;
+  border-radius: 10px;
+}
+
+.reservas .form-group {
+  margin-bottom: 20px;
+}
+
+.reservas label {
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.reservas input, .reservas textarea {
+  border: none;
+  border-radius: 0;
+  border-bottom: 2px solid #3c3c3c;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.reservas button[type="submit"] {
+  background-color: #f4a71d;
+  border: none;
+  margin-top: 20px;
+}
+
+.reservas button[type="submit"]:hover {
+  background-color: #3c3c3c;
+}
+
+/* Estilos para la sección de contacto */
+.contacto {
+  background-color: #f9f9f9;
+  padding: 40px 0;
+}
+
+.contacto h3 {
+  color: #3c3c3c;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.contacto .form-control {
+  border: 1px solid #ced4da;
+}
+
+.contacto button[type="submit"] {
+  background-color: #f4a71d;
+  color: #fff;
+  border: none;
+  padding: 10px 30px;
+  font-weight: bold;
+}
+
+.contacto button[type="submit"]:hover {
+  background-color: #d6891f;
+  cursor: pointer;
+}
+
+.contacto .btn-ubicacion {
+  background-color: #3c3c3c;
+  color: #fff;
+  border: none;
+  padding: 10px 30px;
+  font-weight: bold;
+}
+
+.contacto .btn-ubicacion:hover {
+  background-color: #1e1e1e;
+  cursor: pointer;
+}
+
+.contacto .direccion {
+  margin-top: 20px;
+  color: #6c757d;
+  font-size: 16px;
+}
+
+.contacto .telefono {
+  margin-top: 20px;
+  color: #6c757d;
+  font-size: 16px;
+}
+
+/* Estilos para la sección de horarios */
+.horarios {
+  background-color: #f4f4f4;
+  padding: 40px 0;
+}
+
+.horarios h3 {
+  color: #3c3c3c;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.horarios table {
+  margin-top: 20px;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.horarios table td, .horarios table th {
+  padding: 10px;
+  text-align: center;
+  border: 1px solid #ced4da;
+}
+
+.horarios table tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.horarios table th {
+  background-color: #f4a71d;
+  color: #fff;
+}
+
+.horarios .texto-horarios {
+  margin-top: 20px;
+  color: #6c757d;
+  font-size: 16px;
+}
+

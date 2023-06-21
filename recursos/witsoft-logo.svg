@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="180.709mm" height="44.9191mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1997.47 496.51"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil9 {fill:black}
+    .fil8 {fill:#8C8C8C}
+    .fil5 {fill:url(#id0);fill-rule:nonzero}
+    .fil6 {fill:url(#id1);fill-rule:nonzero}
+    .fil1 {fill:url(#id2);fill-rule:nonzero}
+    .fil2 {fill:url(#id3);fill-rule:nonzero}
+    .fil4 {fill:url(#id4);fill-rule:nonzero}
+    .fil0 {fill:url(#id5);fill-rule:nonzero}
+    .fil3 {fill:url(#id6);fill-rule:nonzero}
+    .fil7 {fill:url(#id7);fill-rule:nonzero}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="545.74" y1="11.16" x2="699.44" y2="154.75">
+   <stop offset="0" style="stop-opacity:1; stop-color:#9C9A9A"/>
+   <stop offset="0.34902" style="stop-opacity:1; stop-color:#939191"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:black"/>
+  </linearGradient>
+  <linearGradient id="id1" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="178.63" y1="455.24" x2="621.71" y2="41.27">
+  </linearGradient>
+  <linearGradient id="id2" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="-20.84" y1="194.15" x2="270.5" y2="466.33">
+  </linearGradient>
+  <linearGradient id="id3" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="427.88" y1="465.81" x2="716.7" y2="195.96">
+  </linearGradient>
+  <linearGradient id="id4" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="383.58" y1="292.79" x2="111.94" y2="38.99">
+  </linearGradient>
+  <linearGradient id="id5" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="182.52" y1="1.71" x2="10.7" y2="162.26">
+  </linearGradient>
+  <linearGradient id="id6" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="500.01" y1="485.82" x2="345.79" y2="341.73">
+  </linearGradient>
+  <linearGradient id="id7" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="414.12" y1="165.29" x2="586.27" y2="326.13">
+  </linearGradient>
+ </defs>
+ <g id="Capa_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2131003805984">
+   <g>
+    <polygon class="fil0" points="99.95,0 0.44,163.97 93.28,163.97 192.79,0 "/>
+    <polygon class="fil1" points="249.67,419.65 93.28,163.97 -0,163.97 203.78,496.51 "/>
+    <polygon class="fil2" points="602.61,165.92 449.47,419.53 496.49,496.39 695.12,165.39 "/>
+    <polygon class="fil3" points="395.33,331.05 349.41,408.07 403.6,496.51 496.4,496.51 "/>
+    <polygon class="fil4" points="146.6,76.93 302.68,331.79 348.92,255.21 192.79,0 "/>
+    <polygon class="fil5" points="596.46,0 550.06,77.81 602.6,165.92 695.12,165.39 "/>
+    <polygon class="fil6" points="503.68,0 203.84,496.51 296.68,496.51 596.51,0 "/>
+    <polygon class="fil7" points="497.7,162.83 404.87,162.84 503.69,328.59 595.53,328.59 "/>
+   </g>
+   <g>
+    <path class="fil8" d="M732.69 206.89l28.6 0 58.17 203.44 81.98 -203.44 4.92 0 79.95 203.44 58.5 -203.44 28.66 0 -81.26 282.54 -4.59 0 -83.95 -213.68 -86.11 213.68 -4.07 0 -80.8 -282.54zm398.55 -12.2c6.09,0 11.28,2.17 15.61,6.56 4.33,4.33 6.5,9.64 6.5,15.74 0,6.03 -2.17,11.28 -6.5,15.61 -4.33,4.39 -9.51,6.56 -15.61,6.56 -6.04,0 -11.15,-2.17 -15.48,-6.56 -4.33,-4.33 -6.5,-9.58 -6.5,-15.61 0,-6.1 2.17,-11.41 6.5,-15.74 4.33,-4.39 9.44,-6.56 15.48,-6.56zm-13.31 85.78l26.75 0 0 208.95 -26.75 0 0 -208.95zm105.91 -77.91l26.76 0 0 77.91 42.5 0 0 23.22 -42.5 0 0 185.74 -26.76 0 0 -185.74 -36.59 0 0 -23.22 36.59 0 0 -77.91z"/>
+    <path class="fil9" d="M1495.36 245.33l-39.87 35.15c-13.97,-19.41 -28.2,-29.12 -42.7,-29.12 -7.08,0 -12.86,1.9 -17.31,5.65 -4.52,3.8 -6.75,8.06 -6.75,12.78 0,4.72 1.57,9.25 4.79,13.45 4.39,5.64 17.57,17.71 39.54,36.26 20.53,17.18 32.99,28 37.39,32.46 10.88,11.02 18.62,21.52 23.22,31.55 4.52,10.1 6.82,21.05 6.82,32.92 0,23.22 -8,42.3 -24.07,57.45 -16.01,15.08 -36.93,22.63 -62.77,22.63 -20.13,0 -37.64,-4.92 -52.59,-14.76 -14.96,-9.9 -27.81,-25.38 -38.44,-46.5l45.32 -27.29c13.64,24.92 29.32,37.39 47.03,37.39 9.25,0 17.05,-2.69 23.35,-8.07 6.29,-5.38 9.45,-11.6 9.45,-18.63 0,-6.36 -2.36,-12.78 -7.15,-19.21 -4.72,-6.36 -15.22,-16.2 -31.42,-29.38 -30.82,-25.05 -50.69,-44.4 -59.68,-58.04 -8.98,-13.64 -13.51,-27.22 -13.51,-40.79 0,-19.61 7.47,-36.4 22.36,-50.37 14.96,-14.03 33.38,-21.05 55.29,-21.05 14.11,0 27.55,3.28 40.27,9.78 12.78,6.55 26.56,18.43 41.45,35.74l0 0zm148.68 30.03c19.74,0 38.3,4.92 55.68,14.76 17.45,9.84 30.96,23.15 40.73,40.01 9.77,16.92 14.63,35.09 14.63,54.63 0,19.68 -4.92,38.04 -14.69,55.16 -9.84,17.12 -23.22,30.5 -40.14,40.14 -16.98,9.64 -35.61,14.5 -56.01,14.5 -30.04,0 -55.69,-10.63 -76.87,-31.88 -21.25,-21.32 -31.88,-47.15 -31.88,-77.52 0,-32.59 12,-59.74 36.01,-81.45 21.05,-18.89 45.19,-28.33 72.54,-28.33l-0 -0zm0.79 49.19c-16.33,0 -29.9,5.64 -40.72,16.92 -10.83,11.35 -16.27,25.77 -16.27,43.42 0,18.1 5.38,32.79 16.07,44 10.69,11.22 24.27,16.86 40.73,16.86 16.39,0 30.03,-5.7 40.99,-17.05 10.88,-11.35 16.33,-25.97 16.33,-43.81 0,-17.91 -5.37,-32.4 -16.06,-43.62 -10.69,-11.15 -24.4,-16.72 -41.06,-16.72l-0 -0zm128.02 -44.07l18.49 0c0.13,-27.35 0.59,-43.48 1.31,-48.46 1.44,-11.48 6.22,-20.59 14.43,-27.28 8.26,-6.7 19.87,-10.04 34.88,-10.04 10.89,0 23.09,2.49 36.73,7.48l0 39.87c-7.54,-2.17 -13.71,-3.28 -18.56,-3.28 -6.1,0 -10.56,1.24 -13.38,3.8 -2.04,1.9 -3.09,5.9 -3.09,11.88l-0.19 26.03 33.25 0 0 44.47 -33.06 0 0 164.49 -52.34 0 0 -164.49 -18.49 0 0 -44.47 0 0zm141.2 -77.12l52.34 0 0 77.12 31.09 0 0 45.25 -31.09 0 0 163.7 -52.34 0 0 -163.7 -26.75 0 0 -45.25 26.75 0 0 -77.12z"/>
+   </g>
+  </g>
+ </g>
+</svg>
