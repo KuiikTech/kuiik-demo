@@ -24,7 +24,7 @@ if (isset($_SESSION['usuario_restaurante'])) {
 			if ($_FILES['archivo_factura']['type'] == "image/jpeg" or $_FILES['archivo_factura']['type'] == "image/png") {
 				if ($_FILES['archivo_factura']['size'] < 5000000) {
 					$codigo = uniqid();
-					$destino = __DIR__ . '/../../rancho1.witsoft.co/paginas/facturas_compras/' . $codigo . '.jpg';
+					$destino = __DIR__ . '/../../rancho1.Kuiik.co/paginas/facturas_compras/' . $codigo . '.jpg';
 					if (!file_exists($destino))
 						$destino = __DIR__ . '/../soportes/compras/' . $codigo . '.jpg';
 					$nombre_imagen = $codigo . '.jpg';

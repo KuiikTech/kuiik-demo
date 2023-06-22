@@ -167,12 +167,12 @@ if ($mostrar != null) {
         if ($ver_e != null)
           $cancelador = $ver_e[0];
 
-        //if ($area == 'Bar') {
-        //if ($area_real != 'Bar')
-        //$visible = 0;
-        //else
-        //$items_bar++;
-        //}
+        if ($area == 'Bar') {
+        if ($area_real != 'Bar')
+        $visible = 0;
+        else
+        $items_bar++;
+        }
 
 
         if ($area_real == 'Bar') {

@@ -25,7 +25,7 @@ if (isset($_SESSION['usuario_restaurante'])) {
             if ($_FILES['archivo_soporte']['type'] == "image/jpeg" or $_FILES['archivo_soporte']['type'] == "image/png") {
                 if ($_FILES['archivo_soporte']['size'] < 5000000) {
                     $codigo = uniqid();
-                    $destino = __DIR__ . '/../../rancho1.witsoft.co/paginas/soportes_transferencias/' . $codigo . '.jpg';
+                    $destino = __DIR__ . '/../../rancho1.Kuiik.co/paginas/soportes_transferencias/' . $codigo . '.jpg';
                     if (!file_exists($destino))
                         $destino = __DIR__ . '/../paginas/soportes_transferencias/' . $codigo . '.jpg';
                     $nombre_imagen = $codigo . '.jpg';

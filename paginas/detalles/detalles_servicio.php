@@ -356,7 +356,7 @@ if (isset($_SESSION['usuario_restaurante'])) {
 							if (count($fotos) > 0) {
 								$pos_f = 1;
 								foreach ($fotos as $f => $foto) {
-									$foto_s = 'https://rancho1.witsoft.co/fotos_servicios/' . $foto['nombre'];
+									$foto_s = 'https://rancho1.Kuiik.co/fotos_servicios/' . $foto['nombre'];
 									if (!file_exists($foto_s))
 										$foto_s = 'fotos_servicios/' . $foto['nombre'];
 							?>
@@ -1003,7 +1003,7 @@ if (isset($_SESSION['usuario_restaurante'])) {
 									<td class="text-center p-0"><?php echo $creador ?></td>
 									<?php
 									if (isset($item['nombre_imagen'])) {
-										$url_imagen = 'https://rancho1.witsoft.co/paginas/soportes_transferencias/' . $item['nombre_imagen'];
+										$url_imagen = 'https://rancho1.Kuiik.co/paginas/soportes_transferencias/' . $item['nombre_imagen'];
 										if (!file_exists($url_imagen))
 											$url_imagen = 'paginas/soportes_transferencias/' . $item['nombre_imagen'];
 									?>

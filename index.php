@@ -40,9 +40,9 @@ if (isset($_SESSION['usuario_restaurante'])) {
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Restaurante | W-POS | WitSoft</title>
+    <title>Kuiik</title>
 
-    <link rel="icon" href="recursos/WitSoft.ico" type="image/x-icon">
+    <link rel="icon" href="recursos/favicon.ico" type="image/x-icon">
 
     <script src="assets/js/config.js"></script>
     <script src="vendors/overlayscrollbars/OverlayScrollbars.min.js"></script>
@@ -329,7 +329,7 @@ if (isset($_SESSION['usuario_restaurante'])) {
                   <div class="card-header p-4 pb-0 pt-3">
                     <div class="row">
                       <div class="col d-flex align-items-center mb-2">
-                        <img class="d-table mx-auto mb-3 w-100" src="recursos/w-pos-logo.svg" alt="W-POS - WitSoft">
+                        <img class="d-table mx-auto mb-3 w-100" src="recursos/w-pos-logo.svg" alt="W-POS - Kuiik">
                       </div>
                       <div class="col d-flex align-items-center mb-2">
                         <img class="me-2" src="recursos/logo_restaurante.png" alt="" width="100%" />
@@ -349,7 +349,7 @@ if (isset($_SESSION['usuario_restaurante'])) {
                     <div class="position-relative mt-4">
                       <hr class="bg-300" />
                       <div class="divider-content-center">
-                        <a href="https://witsoft.co" target="_blank"><strong>WIT</strong>SOFT</a> - Desarrollo de Software
+                        <a href="https://Kuiik.co" target="_blank"><strong>WIT</strong>SOFT</a> - Desarrollo de Software
                       </div>
                     </div>
 

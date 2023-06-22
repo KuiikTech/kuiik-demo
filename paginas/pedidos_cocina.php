@@ -75,13 +75,13 @@
     }
 
     function cargar_div(codigo, orden) {
-        $('#div_card_' + codigo).load('paginas/areas/cuadro_pedido.php/?cod_pedido=' + codigo + '&orden=' + orden + '&area=Cocina');
+        $('#div_card_' + codigo).load('paginas/areas/cuadro_pedido.php/?cod_pedido=' + codigo + '&orden=' + orden + '&area=Bar');
     }
 
     function lista_pedidos(tipo) {
         $.ajax({
             type: "POST",
-            data: "tipo=" + tipo + "&area=Cocina",
+            data: "tipo=" + tipo + "&area=Bar",
             url: "procesos/obtener_pedidos.php",
             success: function(r) {
                 datos = jQuery.parseJSON(r);

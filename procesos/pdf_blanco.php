@@ -29,7 +29,7 @@ $pdf->AddPage();
 
 
 $pdf->SetTitle(utf8_decode('Abrir cajon'));
-$pdf->SetAuthor('Witsoft - Desarrollo de Software');
+$pdf->SetAuthor('Kuiik - Desarrollo de Software');
 
 $pdf->Output('f',utf8_decode('../pdf/abrir_cajon.pdf'));
 

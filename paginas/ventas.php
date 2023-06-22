@@ -68,7 +68,7 @@ if (isset($_SESSION['usuario_restaurante'])) {
 
     <script type="text/javascript">
       $(document).ready(function() {
-        document.title = 'Ventas | Restaurante | W-POS | WitSoft';
+        document.title = 'Ventas | Restaurante | W-POS | Kuiik';
         $('.active').removeClass("active")
         document.getElementById('a_ventas').classList.add("active");
       });

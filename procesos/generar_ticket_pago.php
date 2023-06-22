@@ -234,10 +234,10 @@ if(isset($_SESSION['usuario_restaurante']))
 	$pdf->SetFillColor(0,0,0);
 	$pdf->Cell(70,0.1,'',1,1,'C',true);
 	$pos_y += 4;
-	$pdf->Image('../recursos/logo_witsoft.jpg',0,$pos_y,70);
+	$pdf->Image('../recursos/logo_Kuiik.jpg',0,$pos_y,70);
 
 	$pdf->SetTitle(utf8_decode('Pago No '.$codigo));
-	$pdf->SetAuthor('Witsoft - Desarrollo de Software');
+	$pdf->SetAuthor('Kuiik - Desarrollo de Software');
 
 	$pdf->Output('f',utf8_decode('../pdf_pagos/Pago No '.$codigo.'.pdf'));
 

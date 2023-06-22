@@ -135,7 +135,7 @@ if(isset($_SESSION['usuario_restaurante']))
 
 $(document).ready(function()
 {
-  document.title = 'Perfil | Restaurante | WitSoft';
+  document.title = 'Perfil | Restaurante | Kuiik';
   $('.active').removeClass("active")
   document.getElementById('a_perfil').classList.add("active");
 });

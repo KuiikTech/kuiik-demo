@@ -97,7 +97,7 @@ if(isset($_SESSION['usuario_restaurante']))
     <script type="text/javascript">
      $(document).ready(function()
      {
-      document.title = 'Cuentas por cobrar | Restaurante | W-POS | WitSoft';
+      document.title = 'Cuentas por cobrar | Restaurante | W-POS | Kuiik';
       $('.active').removeClass("active")
       document.getElementById('a_por_cobrar').classList.add("active");
 

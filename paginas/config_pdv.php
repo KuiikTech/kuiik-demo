@@ -24,7 +24,7 @@ if (isset($_SESSION['usuario_restaurante'])) {
 
     <script type="text/javascript">
       $(document).ready(function() {
-        document.title = 'Configuración PDV | Restaurante | W-POS | WitSoft';
+        document.title = 'Configuración PDV | Restaurante | W-POS | Kuiik';
         $('.active').removeClass("active")
         document.getElementById('a_config_pdv').classList.add("active");
 

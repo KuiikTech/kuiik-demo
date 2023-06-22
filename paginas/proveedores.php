@@ -27,7 +27,7 @@ if(isset($_SESSION['usuario_restaurante']))
 		<script type="text/javascript">
 			$(document).ready(function()
 			{
-				document.title = 'Proveedores | Restaurante | W-POS | WitSoft';
+				document.title = 'Proveedores | Restaurante | W-POS | Kuiik';
 				$('.active').removeClass("active")
 				document.getElementById('a_proveedores').classList.add("active");
 

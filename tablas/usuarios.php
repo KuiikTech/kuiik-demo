@@ -521,7 +521,7 @@ $nombre_tabla = 'Usuarios';
 		$('#div_contenido').load('paginas/permisos_usuarios.php/?cod_usuario=' + cod_usuario, function() {
 			cerrar_loader();
 		});
-		document.title = 'Permisos | Restaurante | WitSoft';
+		document.title = 'Permisos | Restaurante | Kuiik';
 		$('.active').removeClass("active")
 	}
 </script>

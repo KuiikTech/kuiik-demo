@@ -133,7 +133,7 @@ if (isset($_SESSION['usuario_restaurante'])) {
 
       <script type="text/javascript">
         $(document).ready(function() {
-          document.title = 'Punto de Venta | Restaurante PDV | WitSoft';
+          document.title = 'Punto de Venta | Restaurante PDV | Kuiik';
           $('.active').removeClass("active")
           document.getElementById('a_pdv').classList.add("active");
 

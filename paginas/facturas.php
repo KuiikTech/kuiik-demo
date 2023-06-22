@@ -51,7 +51,7 @@ if (isset($_SESSION['usuario_restaurante'])) {
 
     <script type="text/javascript">
       $(document).ready(function() {
-        document.title = 'Facturas | Restaurante | WitSoft';
+        document.title = 'Facturas | Restaurante | Kuiik';
         $('.active').removeClass("active")
         document.getElementById('a_facturas').classList.add("active");
 

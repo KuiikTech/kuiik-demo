@@ -48,7 +48,7 @@ if (isset($_SESSION['usuario_restaurante']))
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Adicionales | EL RANCHO DEL TIO | WitSoft</title>
+    <title>Adicionales | EL RANCHO DEL TIO | Kuiik</title>
     <!-- plugins:css -->
     <link rel="stylesheet" href="../../vendors/simple-line-icons/css/simple-line-icons.css">
     <link rel="stylesheet" href="../../vendors/flag-icon-css/css/flag-icon.min.css">
@@ -66,7 +66,7 @@ if (isset($_SESSION['usuario_restaurante']))
     <link rel="stylesheet" href="../../css/style.css">
     <link rel="stylesheet" href="../../css/propios.css">
     <!-- End layout styles -->
-    <link rel="shortcut icon" href="../../recursos/WitSoft.ico" />
+    <link rel="shortcut icon" href="../../recursos/Kuiik.ico" />
   </head>
   <body>
     <div class="container-scroller">
@@ -74,9 +74,9 @@ if (isset($_SESSION['usuario_restaurante']))
       <nav class="navbar default-layout-navbar col-lg-12 col-12 p-0 fixed-top d-flex flex-row">
         <div class="navbar-brand-wrapper d-flex align-items-center">
           <a class="navbar-brand brand-logo" href="../../index.html">
-            <img src="../../recursos/logo_witsoft.png" alt="logo" class="logo-dark" />
+            <img src="../../recursos/logo_Kuiik.png" alt="logo" class="logo-dark" />
           </a>
-          <a class="navbar-brand brand-logo-mini" href="../../index.php"><img src="../../recursos/logo_witsoft_mini.png" alt="logo" /></a>
+          <a class="navbar-brand brand-logo-mini" href="../../index.php"><img src="../../recursos/logo_Kuiik_mini.png" alt="logo" /></a>
         </div>
         <div class="navbar-menu-wrapper d-flex align-items-center flex-grow-1">
           <div class="navbar-nav-right ml-auto">
@@ -102,7 +102,7 @@ if (isset($_SESSION['usuario_restaurante']))
           <footer class="footer">
             <div class="d-sm-flex justify-content-center justify-content-sm-between">
               <span class="text-muted text-center text-sm-left d-block d-sm-inline-block"></span>
-              <span class="float-none float-sm-right d-block mt-1 mt-sm-0 text-center"><a href="../../https://www.facebook.com/WitSoft2016/" target="_blank">WitSoft</a> - Desarrollo de Software</span>
+              <span class="float-none float-sm-right d-block mt-1 mt-sm-0 text-center"><a href="../../https://www.facebook.com/Kuiik2016/" target="_blank">Kuiik</a> - Desarrollo de Software</span>
             </div>
           </footer>
           <!-- partial -->

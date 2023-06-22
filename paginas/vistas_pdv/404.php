@@ -12,7 +12,7 @@
         </div>
         <div class="row mt-5">
           <div class="col-12 mt-xl-2">
-            <span class="float-none d-block mt-1 mt-sm-0 text-center"><a href="https://www.facebook.com/WitSoft2016/" target="_blank" style="color: WHITE"><b>WitSoft</b></a> - Desarrollo de Software</span>
+            <span class="float-none d-block mt-1 mt-sm-0 text-center"><a href="https://www.facebook.com/Kuiik2016/" target="_blank" style="color: WHITE"><b>Kuiik</b></a> - Desarrollo de Software</span>
           </div>
         </div>
       </div>

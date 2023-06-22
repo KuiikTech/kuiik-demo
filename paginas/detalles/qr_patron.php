@@ -44,7 +44,7 @@ if(isset($_SESSION['usuario_restaurante']))
 		});
 
 		function makeCode () {		
-			var url = "http://<?php echo $local ?>.witsoft.co/patternlock.php?<?php echo $codigo ?>&uid=<?php echo $usuario ?>&tipo=<?php echo $tipo ?>";
+			var url = "http://<?php echo $local ?>.Kuiik.co/patternlock.php?<?php echo $codigo ?>&uid=<?php echo $usuario ?>&tipo=<?php echo $tipo ?>";
 
 			qrcode.makeCode(url);
 		}

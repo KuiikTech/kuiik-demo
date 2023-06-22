@@ -35,7 +35,7 @@ if (isset($_SESSION['usuario_restaurante'])) {
 		foreach ($_FILES["archivo_foto"]['tmp_name'] as $key => $tmp_name) {
 			$imagen_tmp = $_FILES['archivo_foto']['tmp_name'][$key];
 			$codigo = uniqid() . '_' . $key;
-			$destino = __DIR__ . '/../../rancho1.witsoft.co/fotos_servicios/' . $codigo . '.jpg';
+			$destino = __DIR__ . '/../../rancho1.Kuiik.co/fotos_servicios/' . $codigo . '.jpg';
 			if (!file_exists($destino))
 				$destino = __DIR__ . '/../fotos_servicios/' . $codigo . '.jpg';
 			$nombre_imagen = $codigo . '.jpg';

@@ -255,10 +255,10 @@ $pdf->SetDrawColor(0,0,0);
 $pdf->SetFillColor(0,0,0);
 $pdf->Cell(70,0.1,'',1,1,'C',true);
 $pos_y += 2;
-$pdf->Image('recursos/logo_witsoft.jpg',0,$pos_y,70);
+$pdf->Image('recursos/logo_Kuiik.jpg',0,$pos_y,70);
 
 $pdf->SetTitle(utf8_decode('Venta No '.$codigo));
-$pdf->SetAuthor('Witsoft - Desarrollo de Software');
+$pdf->SetAuthor('Kuiik - Desarrollo de Software');
 
 $pdf->Output('f',utf8_decode('../detalles/impresion/'.$cod_venta.'.pdf'));
 

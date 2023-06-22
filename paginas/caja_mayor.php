@@ -70,7 +70,7 @@ if (isset($_SESSION['usuario_restaurante'])) {
 
     <script type="text/javascript">
       $(document).ready(function() {
-        document.title = 'Caja Mayor | Restaurante | W-POS | WitSoft';
+        document.title = 'Caja Mayor | Restaurante | W-POS | Kuiik';
         $('.active').removeClass("active")
         document.getElementById('a_caja_mayor').classList.add("active");
 
