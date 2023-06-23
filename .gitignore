@@ -1,3 +1,5 @@
 *.zip
 
 error_log
+
+/clases/conexion.php
