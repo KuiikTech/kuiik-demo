@@ -5,8 +5,8 @@ class conectar
 	{
 		$conexion=mysqli_connect('localhost',
 			'root',
-			'',
-			'witsoftc_rancho_v2');
+			'abc123',
+			'database');
 		$conexion->set_charset('utf8');
 		return $conexion;
 	}
