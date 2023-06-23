@@ -1,3 +1,4 @@
+<!-- connexion example -->
 <?php
 class conectar
 {
