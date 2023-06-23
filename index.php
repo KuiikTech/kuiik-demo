@@ -92,7 +92,7 @@ if (isset($_SESSION['usuario_restaurante'])) {
             </div>
             <a class="navbar-brand" href="index.php">
               <div class="d-flex align-items-center py-3">
-                <img class="me-2" src="recursos/logo_restaurante_horiz.png" alt="" height="40" />
+                <img class="me-2" src="recursos/kuiik.svg" alt="" height="40" />
               </div>
             </a>
           </div>
@@ -258,7 +258,7 @@ if (isset($_SESSION['usuario_restaurante'])) {
             <button class="btn navbar-toggler-humburger-icon navbar-toggler me-1 me-sm-3" type="button" data-bs-toggle="collapse" data-bs-target="#navbarVerticalCollapse" aria-controls="navbarVerticalCollapse" aria-expanded="false" aria-label="Toggle Navigation" id="btn_close_nav"><span class="navbar-toggle-icon"><span class="toggle-line"></span></span></button>
             <a class="navbar-brand me-1 me-sm-3" href="index.php">
               <div class="d-flex align-items-center">
-                <img class="me-2" src="recursos/logo_restaurante_horiz.png" alt="Restaurante" height="30" />
+                <img class="me-2" src="recursos/kuiik.svg" alt="Restaurante" height="30" />
               </div>
             </a>
             <ul class="navbar-nav navbar-nav-icons ms-auto flex-row align-items-center">

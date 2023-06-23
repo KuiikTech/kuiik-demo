@@ -498,7 +498,7 @@ if ($mostrar_vista_caja[2] == 'Ninguno')
           <div class="col-6">
             <h5 class="text-center">Imagen Cuadrada</h5>
             <div class="position-relative border border-4 border-primary p-1 rounded-3">
-              <img class="w-100" src="recursos/logo_restaurante.png" alt="...">
+              <img class="w-100" src="recursos/kuiik.svg" alt="...">
               <div class="position-absolute top-100 start-50 translate-middle bg-white">
                 <button class="btn btn-sm btn-outline-warning btn-round" onclick="$('#Modal_Subir_Logo').modal('show');">Cambiar</button>
               </div>
@@ -507,7 +507,7 @@ if ($mostrar_vista_caja[2] == 'Ninguno')
           <div class="col-6">
             <h5 class="text-center">Imagen Rectangular</h5>
             <div class="position-relative border border-4 border-primary p-1 rounded-3">
-              <img class="w-100" src="recursos/logo_restaurante_horiz.png" alt="...">
+              <img class="w-100" src="recursos/kuiik.svg" alt="...">
               <div class="position-absolute top-100 start-50 translate-middle bg-white">
                 <button class="btn btn-sm btn-outline-warning btn-round" onclick="$('#Modal_Subir_Logo_H').modal('show');">Cambiar</button>
               </div>

@@ -96,7 +96,7 @@ if (isset($_SESSION['usuario_restaurante'])) {
           <nav class="navbar navbar-light navbar-glass navbar-top navbar-expand">
             <a class="navbar-brand me-1 me-sm-3" href="javascript:$('#div_contenido').load('cuadros_pedidos.php/?area=Cocina');">
               <div class="d-flex align-items-center">
-                <img class="me-2" src="../../recursos/logo_restaurante_horiz.png" alt="Restaurante" height="30" />
+                <img class="me-2" src="../../recursos/kuiik.svg" alt="Restaurante" height="30" />
               </div>
             </a>
             <ul class="navbar-nav navbar-nav-icons ms-auto flex-row align-items-center">

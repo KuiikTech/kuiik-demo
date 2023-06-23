@@ -21,7 +21,7 @@ if (isset($_SESSION['usuario_restaurante'])) {
         if (is_uploaded_file($imagen_logo)) {
             if ($_FILES['archivo_logo']['type'] == "image/jpeg" or $_FILES['archivo_logo']['type'] == "image/png") {
                 if ($_FILES['archivo_logo']['size'] < 5000000) {
-                    $destino = __DIR__ . '/../recursos/logo_restaurante.png';
+                    $destino = __DIR__ . '/../recursos/kuiik.svg';
                     if (move_uploaded_file($imagen_logo, $destino)) {
                         $verificacion = 1;
                     } else

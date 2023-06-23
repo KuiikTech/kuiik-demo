@@ -7,7 +7,7 @@ $obj = new conectar();
 $conexion = $obj->conexion();
 $conexion = $obj->conexion();
 
-$sql = "SELECT `codigo`, `cedula`, `nombre`, `apellido`, `contraseña`, `foto`, `telefono`, `rol`, `fecha_registro`, `estado` FROM `usuarios` WHERE  cedula != 2016 AND estado != 'ELIMINADO'";
+$sql = "SELECT `codigo`, `cedula`, `nombre`, `apellido`, `contraseña`, `foto`, `telefono`, `rol`, `fecha_registro`, `estado` FROM `usuarios` WHERE  cedula != 2023 AND estado != 'ELIMINADO'";
 $result = mysqli_query($conexion, $sql);
 
 $nombre_tabla = 'Usuarios';
