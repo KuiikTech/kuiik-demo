@@ -1,4 +1,4 @@
-<!-- connexion example -->
+<!-- mysql connexion example -->
 <?php
 class conectar
 {
