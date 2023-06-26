@@ -276,7 +276,8 @@ CREATE TABLE `productos` (
   `estado` text COLLATE utf8_spanish_ci NOT NULL,
   `barcode` varchar(14) COLLATE utf8_spanish_ci NOT NULL,
   `movimientos` longtext COLLATE utf8_spanish_ci NOT NULL,
-  `especial` text COLLATE utf8_spanish_ci NOT NULL
+  `especial` text COLLATE utf8_spanish_ci NOT NULL,
+  `alerta` int(11) NOT NULL,
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_spanish_ci;
 
 -- --------------------------------------------------------
